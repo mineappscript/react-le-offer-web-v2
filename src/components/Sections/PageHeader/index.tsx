@@ -48,6 +48,7 @@ const PageHeader: FC<Props> = ({
         objectFit="cover"
         objectPosition="50% 20%"
         loader={gumletLoader}
+        priority
       />
       {/* image shadow or overlay */}
       <div
