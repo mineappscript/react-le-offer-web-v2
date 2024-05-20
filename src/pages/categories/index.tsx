@@ -77,7 +77,7 @@ export default function Home() {
   const [isEnabled, setIsEnabled] = useState(false);
   const [theme] = useTheme();
 
-  const { data: bannersAndProducts } = productsApi.useGetAllBannersAndProductsQuery(1);
+  const { data: bannersAndProducts } = productsApi.useGetAllBannersAndProductsQuery({ page: 1, latitude:"", longitude: "" });
   // const _content = posts?.data?.[0]?.attributes;
 
   return (

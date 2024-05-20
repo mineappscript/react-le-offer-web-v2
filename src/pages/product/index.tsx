@@ -95,7 +95,7 @@ export default function Product() {
 
   // const [showFullText,setShowFullText]=useState(false);
   const [isExpanded, setIsExpanded] = useState(false);
-  const { data: bannersAndProducts } = productsApi.useGetAllBannersAndProductsQuery(1);
+  const { data: bannersAndProducts } = productsApi.useGetAllBannersAndProductsQuery({ page: 1, latitude:"", longitude:""});
 
   const fullText = description;
 
