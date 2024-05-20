@@ -1,0 +1,30 @@
+image: atlassian/default-image:latest
+
+options:
+  docker: true
+
+definitions:
+  services:
+    docker:
+      memory: 7128
+
+pipelines:
+  branches:
+    feature/development:
+      - step:
+          size: 2x
+          services:
+            - docker
+          name: Setup Docker
+          caches:
+            - docker
+          script:
+            # prepare data
+            - export REPO_NAME="react-le-offers-v2"
+            - export VERSION="latest"
+            # Login to Docker Hub
+            - echo "${DOCKER_PASS}" | docker login --username ${DOCKER_USER} --password-stdin
+            # Build the docker image
+            - docker build -t ${DOCKER_USER}/${REPO_NAME}:${VERSION} .
+            # Push the tagged image
+            - docker push ${DOCKER_USER}/${REPO_NAME}:${VERSION}

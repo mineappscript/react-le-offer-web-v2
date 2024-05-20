@@ -1,0 +1,631 @@
+{
+  "page": {
+    "header": {
+      "categories": [
+        {
+          "category": "Ordinateurs",
+          "subCategory": [
+            "mobile",
+            "casque",
+            "tablette",
+            "iphone"
+          ]
+        },
+        {
+          "category": "Mobilier et vie à la maison",
+          "subCategory": [
+            "mobile",
+            "casque",
+            "tablette",
+            "iphone",
+            "casque",
+            "tablette",
+            "iphone"
+          ]
+        },
+        {
+          "category": "Vélos",
+          "subCategory": [
+            "mobile",
+            "casque",
+            "tablette",
+            "iphone"
+          ]
+        },
+        {
+          "category": "Voitures",
+          "subCategory": [
+            "mobile",
+            "casque",
+            "tablette",
+            "iphone",
+            "casque",
+            "tablette",
+            "iphone"
+          ]
+        },
+        {
+          "category": "Mobiles et Gadgets",
+          "subCategory": [
+            "mobile",
+            "casque",
+            "tablette",
+            "iphone"
+          ]
+        }
+      ],
+      "allcategories": "Toutes les catégories",
+      "searchCategoriesPlaceholder": "Rechercher des catégories",
+      "loginOrUserName": {
+        "login": "Connexion",
+        "userName": "Nom d'utilisateur"
+      },
+      "button": "Vendre",
+      "heroSection": {
+        "title": "Toutes sortes de choses, pour toutes sortes de personnes",
+        "locationPlaceholder": "Rechercher un emplacement",
+        "searchPlaceholder": "Rechercher des produits ou des utilisateurs",
+        "searchUserandItem": {
+          "users": "Utilisateurs",
+          "items": "Articles"
+        },
+        "searchItem": {
+          "placeholder": "Rechercher tout et n'importe quoi"
+        },
+        "searchPlace": {
+          "placeholder": "Rechercher des lieux"
+        },
+        "button": "Rechercher",
+        "popularSearch": "Achetez et vendez du matériel de construction auprès des meilleurs concessionnaires des États-Unis en 2024. Vous pouvez trouver du matériel neuf et d'occasion provenant des meilleurs concessionnaires du pays."
+      }
+    },
+    "categoriesSection": {
+      "title": "Que recherchez-vous ?",
+      "Categories": [
+        {
+          "categoryName": "Ordinateurs",
+          "categoriesIcon": "/Frame_1171280565_ffafa162ab.png"
+        },
+        {
+          "categoryName": "Mobilier et vie à la maison",
+          "categoriesIcon": "/Frame_1171280565_1_749ef98724.png"
+        },
+        {
+          "categoryName": "Vélos",
+          "categoriesIcon": "/Frame_1171280565_2_5e87d6ddbb.png"
+        },
+        {
+          "categoryName": "Voitures",
+          "categoriesIcon": "/Frame_1171280565_3_ef803718e1.png"
+        },
+        {
+          "categoryName": "Mobiles et Gadgets",
+          "categoriesIcon": "/Frame_1171280565_4_af00fdd139.png"
+        },
+        {
+          "categoryName": "Robe",
+          "categoriesIcon": "/Frame_1171280565_5_3451da4517.png"
+        }
+      ],
+      "seeAllCategories": "Voir toutes les catégories"
+    },
+    "highlightSection": {
+      "title": "Produits mis en avant",
+      "productList": [
+        {
+          "userName": "Eleanor Pena",
+          "timeStamp": "Il y a 2 jours",
+          "productName": "Dames jaunes",
+          "productPrice": " $56.98",
+          "location": "Bangalore, 572140"
+        },
+        {
+          "userName": "Guy Hawkins",
+          "timeStamp": "Il y a 5 jours",
+          "productName": "Canon Mark III",
+          "productPrice": " $400",
+          "location": "Bangalore, 572140"
+        },
+        {
+          "userName": "Darrell Steward",
+          "timeStamp": "Il y a 3 jours",
+          "productName": "Apple Macbook 2",
+          "productPrice": "$800",
+          "location": "Bangalore, 572140"
+        },
+        {
+          "userName": "Marvin McKinney",
+          "timeStamp": "Il y a 10 jours",
+          "productName": "T-shirt Levi's",
+          "productPrice": "$25.88",
+          "location": "Bangalore, 572140"
+        },
+        {
+          "userName": "Cody Fisher",
+          "timeStamp": "Il y a 2 minutes",
+          "productName": "Combo de chemises H&M (3 chemises)",
+          "productPrice": "$188",
+          "location": "Bangalore, 572140"
+        }
+      ]
+    },
+    "recommendedSection": {
+      "title": "Recommandé pour vous",
+      "productList": [
+        {
+          "userName": "Savannah Nguyen",
+          "timeStamp": "Il y a 2 jours",
+          "productName": "Dames jaunes",
+          "productPrice": " $56.98",
+          "location": "Bangalore, 572140"
+        },
+        {
+          "userName": "Guy Hawkins",
+          "timeStamp": "Il y a 5 jours",
+          "productName": "Canon Mark III",
+          "productPrice": " $400",
+          "location": "Bangalore, 572140"
+        },
+        {
+          "userName": "Darrell Steward",
+          "timeStamp": "Il y a 3 jours",
+          "productName": "Apple Macbook 2",
+          "productPrice": "$800",
+          "location": "Bangalore, 572140"
+        },
+        {
+          "userName": "Marvin McKinney",
+          "timeStamp": "Il y a 10 jours",
+          "productName": "T-shirt Levi's",
+          "productPrice": "$25.88",
+          "location": "Bangalore, 572140"
+        },
+        {
+          "userName": "Cody Fisher",
+          "timeStamp": "Il y a 2 minutes",
+          "productName": "Combo de chemises H&M (3 chemises)",
+          "productPrice": "$188",
+          "location": "Bangalore, 572140"
+        },
+        {
+          "userName": "Savannah Nguyen",
+          "timeStamp": "Il y a 2 jours",
+          "productName": "Dames jaunes",
+          "productPrice": " $56.98",
+          "location": "Bangalore, 572140"
+        },
+        {
+          "userName": "Guy Hawkins",
+          "timeStamp": "Il y a 5 jours",
+          "productName": "Canon Mark III",
+          "productPrice": " $400",
+          "location": "Bangalore, 572140"
+        },
+        {
+          "userName": "Darrell Steward",
+          "timeStamp": "Il y a 3 jours",
+          "productName": "Apple Macbook 2",
+          "productPrice": "$800",
+          "location": "Bangalore, 572140"
+        },
+        {
+          "userName": "Marvin McKinney",
+          "timeStamp": "Il y a 10 jours",
+          "productName": "T-shirt Levi's",
+          "productPrice": "$25.88",
+          "location": "Bangalore, 572140"
+        },
+        {
+          "userName": "Cody Fisher",
+          "timeStamp": "Il y a 2 minutes",
+          "productName": "Combo de chemises H&M (3 chemises)",
+          "productPrice": "$188",
+          "location": "Bangalore, 572140"
+        }
+      ]
+    },
+    "button": "Voir plus",
+    "flowSection": {
+      "title": "Vendez et achetez toutes sortes de choses sur Equipnow",
+      "section": [
+        {
+          "heading": "Vendez et débarrassez-vous",
+          "subHeading": "Gagnez de l'argent tout en préservant la planète",
+          "image": "l1.json"
+        },
+        {
+          "heading": "C'est aussi une excellente affaire pour l'environnement",
+          "subHeading": "C'est aussi une excellente affaire pour l'environnement",
+          "image": "l2.json"
+        },
+        {
+          "heading": "Achetez et vendez simplement en discutant",
+          "subHeading": "Achetez et vendez simplement en discutant",
+          "image": "l3.json"
+        }
+      ]
+    },
+    "userTestimonials": {
+      "title": "Effectuez des transactions avec une communauté locale de confiance",
+      "testimonials": [
+        {
+          "title": "Vendre et désencombrer",
+          "comment": "Interface utilisateur sécurisée, fiable et facile à utiliser. Dans l'ensemble, une communauté géniale à rejoindre!",
+          "userName": "@md.helmi",
+          "ratings": 5
+        },
+        {
+          "title": "Désencombrement et bonnes affaires",
+          "comment": "J'adore que nous puissions tirer le meilleur parti des articles. Cela m'aide à débarrasser mes affaires sans avoir la culpabilité de jeter et à acheter en tenant compte de l'environnement.",
+          "userName": "@chrischross",
+          "ratings": 5
+        },
+        {
+          "title": "Génial pour la terre",
+          "comment": "Excellent moyen d'économiser de l'argent et des ressources terrestres en achetant d'occasion; et de donner de nouvelles propriétaires aux choses qui fonctionnent encore / en excellent état.",
+          "userName": "@mint_sg",
+          "ratings": 5
+        },
+        {
+          "title": "Facile à acheter et à vendre",
+          "comment": "Plateforme facile et pratique. C'est pratique pour acheter et vendre des trucs. Permet de discuter directement avec d'autres Carousellers.",
+          "userName": "@joeboxer",
+          "ratings": 5
+        }
+      ]
+    },
+    "brandLogoSection": {
+      "title": "Nous avons les marques préférées des Américains",
+      "description": "Magasinez l'une des plus grandes inventaires de camions neufs, d'occasion et certifiés par les concessionnaires",
+      "items": [
+        {"image": "https://leoffer-media.s3.ap-south-1.amazonaws.com/SCANIA_Logo_vector_1_6cbaa11903.svg"},
+        {"image": "https://leoffer-media.s3.ap-south-1.amazonaws.com/isuzu_2_1_c09c3ac705.svg"},
+        {"image": "https://leoffer-media.s3.ap-south-1.amazonaws.com/Vector_16fa3c0d0a.svg"},
+        {"image": "https://leoffer-media.s3.ap-south-1.amazonaws.com/cat_1_721b9394d8.svg"},
+        {"image": "https://leoffer-media.s3.ap-south-1.amazonaws.com/mercedes_benz_9_1_442c21a7f6.svg"},
+        {"image": "https://leoffer-media.s3.ap-south-1.amazonaws.com/Group_1171280612_f8167ccb59.svg"},
+        {"image": "https://leoffer-media.s3.ap-south-1.amazonaws.com/Vector_4_a0add61d52.svg"},
+        {"image": "https://leoffer-media.s3.ap-south-1.amazonaws.com/Vector_1_ebf680a1fd.svg"},
+        {"image": "https://leoffer-media.s3.ap-south-1.amazonaws.com/navistar_international_1_1_8861a6891c.svg"},
+        {"image": "https://leoffer-media.s3.ap-south-1.amazonaws.com/Vector_3_23dd509a37.svg"},
+        {"image": "https://leoffer-media.s3.ap-south-1.amazonaws.com/hino_1_aaadf555b8.svg"},
+        {"image": "https://leoffer-media.s3.ap-south-1.amazonaws.com/bobcat_1_3ee6f1eaf5.svg"}
+      ]
+    },
+    "newAndUsedBannerSection": {
+      "title": "Explorez les camions neufs et d'occasion à vendre",
+      "description": "Magasinez l'une des plus grandes inventaires de camions neufs, d'occasion et certifiés par les concessionnaires",
+      "items": [
+        {
+          "image": "https://leoffer-media.s3.ap-south-1.amazonaws.com/Frame_22_814b60221d.png",
+          "title": "Nouveau camion à vendre",
+          "description": "Explorez la plus grande sélection de bateaux neufs à vendre disponibles dès maintenant",
+          "btnText": "Acheter de nouveaux camions à vendre"
+        },
+        {
+          "image": "https://leoffer-media.s3.ap-south-1.amazonaws.com/Frame_23_0c64606d48.png",
+          "title": "Camion d'occasion à vendre",
+          "description": "Explorez la plus grande sélection de bateaux neufs à vendre disponibles dès maintenant",
+          "btnText": "Acheter des camions d'occasion à vendre"
+        }
+      ]
+    },
+    "sellAndBuySection": {
+      "title": "Vendez et achetez toutes sortes de choses sur Equipnow",
+      "items": [
+        {
+          "image": "https://leoffer-media.s3.ap-south-1.amazonaws.com/sellier_1_d0927a8911.webp",
+          "title": "Vendez et désencombrez",
+          "description": "Gagnez de l'argent tout en préservant la terre"
+        },
+        {
+          "image": "https://leoffer-media.s3.ap-south-1.amazonaws.com/sellier_2_2a88af9a07.webp",
+          "title": "C'est aussi une excellente affaire écologique.",
+          "description": "C'est aussi une excellente affaire pour l'environnement"
+        },
+        {
+          "image": "https://leoffer-media.s3.ap-south-1.amazonaws.com/sellier_3_f70c048eb3.webp",
+          "title": "Achetez et vendez simplement en discutant",
+          "description": "Achetez et vendez simplement en discutant"
+        }
+      ]
+    },
+    "guidesAndTipsSection": {
+      "title": "Guides et conseils Equipnow",
+      "description": "Galerie des clés de moment où les équipements sont remis. Utilisez #PurchasedOnEquipnow pour avoir une chance d'être présenté dans notre galerie d'équipements heureux.",
+      "items": [
+        {
+          "image": "https://leoffer-media.s3.ap-south-1.amazonaws.com/guides_and_tipes_1_5bf678cdf6.webp",
+          "title": "Top 10 des fabricants de matériel agricole à console centrale en 2023",
+          "description": "Un avis d'expert sur les principaux fabricants de consoles centrales. Découvrez quelles consoles centrales répondent aux besoins de l'agriculture évolutive."
+        },
+        {
+          "image": "https://leoffer-media.s3.ap-south-1.amazonaws.com/guides_and_tipes_3_9e53904345.webp",
+          "title": "Quels types d'équipements sont vendus par Equipnow?",
+          "description": "En savoir plus"
+        },
+        {
+          "image": "https://leoffer-media.s3.ap-south-1.amazonaws.com/guides_and_tipes_2_730bec9053.webp",
+          "title": "Tutoriel pour acheter un équipement sur Equipnow",
+          "description": "En savoir plus"
+        }
+      ]
+    },
+    "dealersSection": {
+      "title": "Pour les concessionnaires et la vente au détail virtuelle",
+      "description": "Embrassez la nouvelle vague de technologie et de vente au détail virtuelle pour les concessionnaires et les professionnels de l'équipement",
+      "items": [
+        {
+          "image": "https://leoffer-media.s3.ap-south-1.amazonaws.com/Frame_1171282174_9e1a047177.png",
+          "description": "Apprenez comment transformer votre concession et votre site web en une expérience de vente au détail virtuelle et ajouter de nouvelles sources de revenus",
+          "btnText": "En savoir plus"
+        },
+        {
+          "image": "https://leoffer-media.s3.ap-south-1.amazonaws.com/Frame_1171282175_be1cc79204.png",
+          "description": "Besoin d'une démo ? Planifions une démo dès aujourd'hui et discutons de laquelle des plans professionnels Equipnow est le mieux adapté à votre entreprise",
+          "btnText": "En savoir plus"
+        },
+        {
+          "image": "https://leoffer-media.s3.ap-south-1.amazonaws.com/Frame_1171282176_7f074e5579.png",
+          "description": "Rencontrez Equipnow Live... votre salle d'exposition virtuelle et votre application de visite en bateau en direct. Effectuez des visites en bateau en direct, voire préqualifiez un client lors d'une vidéo en direct",
+          "btnText": "En savoir plus"
+        }
+      ]
+    },
+      "faqSection": {
+        "title": "FAQ's",
+        "questions": [
+          {
+            "question": "Pourquoi mon compte est-il banni/suspendu ?",
+            "answer": "Si vous recevez une notification indiquant que votre compte est banni/suspendu, cela signifie que vous avez enfreint l'une de nos règles de publication ou qu'il y a une activité non conforme à nos règles de confiance et de sécurité concernant votre compte. Les utilisateurs professionnels en cas de compte banni/suspendu sont priés de contacter l'administrateur. Pour tout support, n'hésitez pas à contacter l'équipe du service client de Le-Offer."
+          },
+          {
+            "question": "Comment modifier/supprimer une annonce ?",
+            "answer": "Si vous souhaitez modifier ou supprimer une annonce existante, vous pouvez le faire en suivant les étapes suivantes : - 1. Après vous être connecté à votre compte Le-Offer, allez dans Profil - Mes annonces 2. Cliquez sur l'annonce, vous trouverez les boutons Modifier et Supprimer sur l'écran de mise à jour de l'annonce 3. Cliquez sur Modifier pour modifier l'annonce et sur le bouton Supprimer pour supprimer votre annonce."
+          },
+          {
+            "question": "Comment supprimer mon compte ?",
+            "answer": "1. Appuyez sur \"Profil\" et sélectionnez \"Paramètres\" 2. Sous les paramètres, vous trouverez une option appelée \"Désactiver le compte\", appuyez sur Désactiver et une fenêtre contextuelle de confirmation finale apparaîtra 3. Une fois que vous avez confirmé, vous recevrez une notification par e-mail pour la vérification de la désactivation, une fois que vous aurez confirmé par e-mail, votre compte sera désactivé."
+          },
+          {
+            "question": "Comment me déconnecter de mon compte ?",
+            "answer": "1. Appuyez sur \"Profil\" et sélectionnez \"Paramètres\" 2. Sous les paramètres, vous trouverez une option appelée \"Se déconnecter\", appuyez sur Se déconnecter et une fenêtre contextuelle de confirmation finale apparaîtra 3. Confirmez la fenêtre contextuelle et vous serez déconnecté de l'application. Puis-je partager mon annonce avec mes amis ?"
+          },
+          {
+            "question": "Comment obtenir un maximum de réponses ?",
+            "answer": "Pour obtenir de bonnes réponses pour votre annonce, veuillez vous assurer des éléments suivants : - Une description complète : Mentionnez les détails pertinents de l'annonce tels que le titre/description et assurez-vous de fournir des informations complètes telles que les spécifications de l'article, la taille, la forme, la couleur, le design, etc. Photographie(s) de résolution claire : Téléchargez toujours une image claire montrant correctement l'article. Veuillez vous assurer que l'image est originale et reflète l'article tel que décrit. Ne pas inclure d'image d'archive ou d'humain. Prix compétitif : Veuillez vous assurer de fixer un prix réaliste pour votre annonce. Il devrait refléter la valeur marchande de l'article et correspondre à l'état réel de l'article. Catégorie appropriée : Assurez-vous de poster l'annonce dans la catégorie appropriée. Par exemple, publiez un téléphone portable dans la catégorie téléphones portables et non électronique. Services Premium : Vous avez la possibilité d'opter pour des services payants tels qu'une annonce en vedette ou la mise en évidence des annonces. Ils donnent plus de visibilité à votre annonce et aident à recevoir beaucoup plus de réponses. Pour en savoir plus, cliquez ici."
+          }
+        ]
+      },
+      "appDownloadSection": {
+        "heading": "Tout le monde gagne sur Equipnow",
+        "subHeading": "Débloquez des fonctionnalités exclusives en téléchargeant l'application Equipnow dès aujourd'hui !"
+      },
+      "infoSection": [
+        {
+          "title": "Villes",
+          "items": [
+            "Fairfield",
+            "Austin",
+            "Pembroke Pines",
+            "Orange",
+            "Pembroke Pines",
+            "Naperville",
+            "Orange",
+            "Pembroke Pines",
+            "Pembroke Pines",
+            "Austin",
+            "Naperville",
+            "Pembroke Pines",
+            "Pembroke Pines",
+            "Naperville",
+            "Pembroke Pines",
+            "Austin Fairfield",
+            "Fairfield",
+            "Orange",
+            "Austin",
+            "Toledo",
+            "Naperville",
+            "Toledo",
+            "Austin",
+            "Orange",
+            "Naperville",
+            "Toledo",
+            "Orange",
+            "Austin",
+            "Toledo",
+            "Orange",
+            "Naperville",
+            "Pembroke Pines",
+            "Orange",
+            "Pembroke Pines",
+            "Austin",
+            "Austin"
+          ]
+        },
+        {
+          "title": "Articles populaires dans l'équipement",
+          "items": [
+            "BMW Voitures d'occasion à vendre",
+            "Volkswagen Voitures d'occasion à vendre",
+            "Volkswagen Voitures d'occasion à vendre",
+            "Honda Voitures d'occasion à vendre",
+            "Mercedes Benz Voitures d'occasion à vendre",
+            "Audi Voitures d'occasion à vendre",
+            "Nissan Voitures d'occasion à vendre",
+            "Suzuki Voitures d'occasion à vendre",
+            "Mitsubishi Voitures d'occasion à vendre",
+            "Lexus Voitures d'occasion à vendre",
+            "Kia Voitures d'occasion à vendre",
+            "Mazda Voitures d'occasion à vendre",
+            "Hyundai Voitures d'occasion à vendre",
+            "Skoda Voitures d'occasion à vendre"
+          ]
+        },
+        {
+          "title": "Articles populaires dans les accessoires",
+          "items": [
+            "Honda Civic Voitures d'occasion à vendre",
+            "Honda Fit Voitures d'occasion à vendre",
+            "Nissan X Trail Voitures d'occasion à vendre",
+            "Toyota Wish Voitures d'occasion à vendre",
+            "Mazda 3 Voitures d'occasion à vendre",
+            "Mazda 6 Voitures d'occasion à vendre",
+            "Kia Cerato Voitures d'occasion à vendre",
+            "Honda Vezel Voitures d'occasion à vendre",
+            "Toyota Corolla Altis Voitures d'occasion à vendre",
+            "Toyota Harrier Voitures d'occasion à vendre",
+            "BMW M3 Voitures d'occasion à vendre",
+            "Mercedes Benz CLA Voitures d'occasion à vendre",
+            "Mercedes Benz A Class Voitures d'occasion à vendre"
+          ]
+        },
+        {
+          "title": "Articles populaires dans les véhicules",
+          "items": [
+            "Service de rénovation DB",
+            "Service de rénovation BTO",
+            "Service de rénovation de condo",
+            "Service de rénovation de toilettes",
+            "Services de menuiserie",
+            "Services de peinture",
+            "Installateur de papier peint",
+            "Services de design intérieur",
+            "Fenêtre en aluminium et grill",
+            "Partition de faux plafond",
+            "Services d'imperméabilisation",
+            "Services d'électricité et d'éclairage",
+            "Service de rénovation de sol",
+            "Services de revêtement de sol en vinyle"
+          ]
+        },
+        {
+          "title": "Articles populaires dans les remorques",
+          "items": [
+            "Service de rénovation HDB",
+            "Service de rénovation BTO",
+            "Service de rénovation de condo",
+            "Service de rénovation de toilettes",
+            "Services de menuiserie",
+            "Services de peinture",
+            "Installateur de papier peint",
+            "Services de design intérieur",
+            "Fenêtre en aluminium et grill",
+            "Partition de faux plafond",
+            "Services d'imperméabilisation",
+            "Services d'électricité et d'éclairage",
+            "Service de rénovation de sol",
+            "Services de revêtement de sol en vinyle"
+          ]
+        },
+        {
+          "title": "Articles populaires dans les vélos",
+          "items": [
+            "Service de rénovation HDB",
+            "Service de rénovation BTO",
+            "Service de rénovation de condo",
+            "Service de rénovation de toilettes",
+            "Services de menuiserie",
+            "Services de peinture",
+            "Installateur de papier peint",
+            "Services de design intérieur",
+            "Fenêtre en aluminium et grill",
+            "Partition de faux plafond",
+            "Services d'imperméabilisation",
+            "Services d'électricité et d'éclairage",
+            "Service de rénovation de sol",
+            "Services de revêtement de sol en vinyle"
+          ]
+        },
+        {
+          "title": "Articles populaires dans les voitures",
+          "items": [
+            "Service de rénovation HDB",
+            "Service de rénovation BTO",
+            "Service de rénovation de condo",
+            "Service de rénovation de toilettes",
+            "Services de menuiserie",
+            "Services de peinture",
+            "Installateur de papier peint",
+            "Services de design intérieur",
+            "Fenêtre en aluminium et grill",
+            "Partition de faux plafond",
+            "Services d'imperméabilisation",
+            "Services d'électricité et d'éclairage",
+            "Service de rénovation de sol",
+            "Services de revêtement de sol en vinyle"
+          ]
+        },
+        {
+          "title": "Articles populaires dans l'électronique domestique",
+          "items": [
+            "Service de rénovation HDB",
+            "Service de rénovation BTO",
+            "Service de rénovation de condo",
+            "Service de rénovation de toilettes",
+            "Services de menuiserie",
+            "Services de peinture",
+            "Installateur de papier peint",
+            "Services de design intérieur",
+            "Fenêtre en aluminium et grill",
+            "Partition de faux plafond",
+            "Services d'imperméabilisation",
+            "Services d'électricité et d'éclairage",
+            "Service de rénovation de sol",
+            "Services de revêtement de sol en vinyle"
+          ]
+        },
+        {
+          "title": "Articles populaires dans les mobiles et gadgets",
+          "items": [
+            "Service de rénovation HDB",
+            "Service de rénovation BTO",
+            "Service de rénovation de condo",
+            "Service de rénovation de toilettes",
+            "Services de menuiserie",
+            "Services de peinture",
+            "Installateur de papier peint",
+            "Services de design intérieur",
+            "Fenêtre en aluminium et grill",
+            "Partition de faux plafond",
+            "Services d'imperméabilisation",
+            "Services d'électricité et d'éclairage",
+            "Service de rénovation de sol",
+            "Services de revêtement de sol en vinyle"
+          ]
+        }
+      ],
+      "footerSectionText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ",
+      "footerSection": {
+        "itemName": "À propos",
+        "categories": [
+          "Qu'est-ce qu'EquipNow ?",
+          "FAQ",
+          "Notre équipe",
+          "Conditions d'utilisation",
+          "Blog",
+          "Politique de confidentialité"
+        ]
+      },
+      "connectSection": {
+        "title": "Connectez-vous avec nous",
+        "tollFree": "Appel gratuit",
+        "newsLetterTitle": "Abonnez-vous à notre newsletter",
+        "newsLetterInputPlaceholder": "hi@enquipnow.cow",
+        "newsLetterSubmitBtnText": "Soumettre"
+      },
+      "menuOptions": [
+        { "item": "Profil" },
+        { "item": "Gérer les annonces" },
+        { "item": "Paramètres" },
+        { "item": "Mes achats" },
+        { "item": "Mes ventes" },
+        { "item": "J'aime" },
+        { "item": "Panier" },
+        { "item": "Préférences de vente" },
+        { "item": "Promo livraison" },
+        { "item": "Se déconnecter" }
+      ] 
+        
+  }
+}

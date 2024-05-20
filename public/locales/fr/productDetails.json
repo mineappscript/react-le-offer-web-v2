@@ -1,0 +1,83 @@
+{
+    "page": {
+        "soldBy": "Vendu par",
+        "seller": "Isabelle",
+        "rating": 2.0,
+        "followBtn": "Suivre",
+
+        "newBtn": "Nouveau",
+        "categoryTitle": "Mobilier de salon",
+        "category": "Meubles et vie à la maison",
+        "price": "USD $245.00",
+        "posted": "il y a 20 jours",
+        "desc": "Description",
+        "description": "Obtenez 3 ans de services d'entretien après la garantie de la marque couvrant l'inspection, le nettoyage, les retouches de polissage, le remplacement des accessoires, le traitement préventif contre les taches et le traitement anti-termites...Lire la suite",
+        "productAttributes": [
+            {
+                "title": "Mobilier",
+                "attribute": [
+                    {
+                        "name": "Matelas",
+                        "value": "Non"
+                    },
+                    {
+                        "name": "Avec rangement",
+                        "value": "Lit en résine"
+                    },
+                    {
+                        "name": "Taille du lit",
+                        "value": "Simple"
+                    }
+                ]
+            },
+            {
+                "title": "Mobilier",
+                "attribute": [
+                    {
+                        "name": "Matériau du lit",
+                        "value": "Lit en résine"
+                    },
+                    {
+                        "name": "Avec rangement",
+                        "value": "Non"
+                    }
+                ]
+            }
+        ],
+        "locationTitle": "Emplacement",
+        "location": "Urdigere, 572140",
+        "btnBuyDirect": "Achat Direct",
+        "comments": {
+            "CommentsTitle": "Commentaires",
+            "allComments": [
+                {
+                    "name": "@meow____",
+                    "DateAndTime": "08 janvier 2024 12:51",
+                    "text": "Bon vendeur bon produit ! Merci"
+                },
+                {
+                    "name": "@meow____",
+                    "DateAndTime": "08 janvier 2024 12:51",
+                    "text": "Bon vendeur bon produit ! Merci"
+                }
+            ],
+            "commentBtn": "Ajouter des commentaires"
+        },
+        "webSection": {
+            "sectionTitle": "Autres produits du vendeur",
+            "actionText": "Voir tout"
+        },
+        "mobileSection": [
+            {
+                "sectionTitle": "Produits similaires",
+                "actionText": "Voir tout"
+            },
+            {
+                "sectionTitle": "Vu récemment",
+                "actionText": "Voir tout"
+            }
+        ],
+        "linkBtn":"J'aime",
+        "shareBtn":"Partager"
+    }
+}

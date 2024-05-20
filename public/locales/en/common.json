@@ -1,0 +1,599 @@
+{
+  "page": {
+    "header": {
+      "categories": [
+        {
+          "category": "Computers",
+          "subCategory": [
+            "mobile",
+            "headphone",
+            "tab",
+            "iphone"
+          ]
+        },
+        {
+          "category": "Furniture & Home Living",
+          "subCategory": [
+            "mobile",
+            "headphone",
+            "tab",
+            "iphone",
+            "headphone",
+            "tab",
+            "iphone"
+          ]
+        },
+        {
+          "category": "Bikes",
+          "subCategory": [
+            "mobile",
+            "headphone",
+            "tab",
+            "iphone"
+          ]
+        },
+        {
+          "category": "Cars",
+          "subCategory": [
+            "mobile",
+            "headphone",
+            "tab",
+            "iphone",
+            "headphone",
+            "tab",
+            "iphone"
+          ]
+        },
+        {
+          "category": "Mobiles and Gadgets",
+          "subCategory": [
+            "mobile",
+            "headphone",
+            "tab",
+            "iphone"
+          ]
+        }
+      ],
+      "allcategories": "All Categories",
+      "searchCategoriesPlaceholder":"Search Categories",
+      "loginOrUserName": {
+        "login": "Login",
+        "userName": "Username"
+      },
+      "button": "Sell",
+      "heroSection": {
+        "title": "Buy & Sell products from users around you",
+        "locationPlaceholder":"Search location",
+        "searchPlaceholder":"Search products or users",
+        "searchUserandItem": {
+          "users":"Users",
+           "items":"Items"
+          },
+        "searchItem": {
+          "placeholder": "Search for anything and everything"
+        },
+        "searchPlace": {
+          "placeholder": "Search Places"
+        },
+        "button":"Search",
+        "popularSearch": "Buy & Sell products from users around you. Le-Offer also provides shipping services and secure escrowed payments to provide the safest buy and sell experience to all users."
+      }
+    },
+    "categoriesSection": {
+      "title": "What are you looking for?",
+      "Categories": [
+        {
+          "categoryName": "Computers",
+          "categoriesIcon": "/Frame_1171280565_ffafa162ab.png"
+        },
+        {
+          "categoryName": "Furniture & Home Living",
+          "categoriesIcon": "/Frame_1171280565_1_749ef98724.png" 
+        },
+        {
+          "categoryName": "Bikes",
+          "categoriesIcon": "/Frame_1171280565_2_5e87d6ddbb.png"
+        },
+        {
+          "categoryName": "Cars", 
+          "categoriesIcon": "/Frame_1171280565_3_ef803718e1.png"
+        },
+        {
+          "categoryName": "Mobiles and Gadgets",
+          "categoriesIcon": "/Frame_1171280565_4_af00fdd139.png" 
+        },
+        {
+          "categoryName": "Dress",
+          "categoriesIcon": "/Frame_1171280565_5_3451da4517.png" 
+        }
+      ],
+      "seeAllCategories":"See All Categories"
+    },
+    "highlightSection": {
+      "title":"Highlighted Products",
+      "productList": [
+        {
+          "userName": "Eleanor Pena",
+          "timeStamp": "2 days ago",
+          "productName": "Yellow Ladies",
+          "productPrice": " $56.98",
+          "location": "Bangalore, 572140"
+        },
+        {
+          "userName": "Guy Hawkins",
+          "timeStamp": "5 days ago",
+          "productName": "Canon Mark III",
+          "productPrice": " $400",
+          "location": "Bangalore, 572140"
+        },
+        {
+          "userName": "Darrell Steward",
+          "timeStamp": "3 days ago",
+          "productName": "Apple Macbook 2",
+          "productPrice": "$800",
+          "location": "Bangalore, 572140"
+        },
+        {
+          "userName": "Marvin McKinney",
+          "timeStamp": "10 days ago",
+          "productName": "Levis Tshirt",
+          "productPrice": "$25.88",
+          "location": "Bangalore, 572140"
+        },
+        {
+          "userName": "Cody Fisher",
+          "timeStamp": "2 minutes ago",
+          "productName": "H&M Shirt Combo (3 Shirt)",
+          "productPrice": "$188",
+          "location": "Bangalore, 572140"
+        }
+      ]
+    },
+    "recommendedSection": {
+      "title":"Recommended For you",
+      "productList": [
+        {
+          "userName": "Savannah Nguyen",
+          "timeStamp": "2 days ago",
+          "productName": "Yellow Ladies",
+          "productPrice": " $56.98",
+          "location": "Bangalore, 572140"
+        },
+        {
+          "userName": "Guy Hawkins",
+          "timeStamp": "5 days ago",
+          "productName": "Canon Mark III",
+          "productPrice": " $400",
+          "location": "Bangalore, 572140"
+        },
+        {
+          "userName": "Darrell Steward",
+          "timeStamp": "3 days ago",
+          "productName": "Apple Macbook 2",
+          "productPrice": "$800",
+          "location": "Bangalore, 572140"
+        },
+        {
+          "userName": "Marvin McKinney",
+          "timeStamp": "10 days ago",
+          "productName": "Levis Tshirt",
+          "productPrice": "$25.88",
+          "location": "Bangalore, 572140"
+        },
+        {
+          "userName": "Cody Fisher",
+          "timeStamp": "2 minutes ago",
+          "productName": "H&M Shirt Combo (3 Shirt)",
+          "productPrice": "$188",
+          "location": "Bangalore, 572140"
+        },
+        {
+          "userName": "Savannah Nguyen",
+          "timeStamp": "2 days ago",
+          "productName": "Yellow Ladies",
+          "productPrice": " $56.98",
+          "location": "Bangalore, 572140"
+        },
+        {
+          "userName": "Guy Hawkins",
+          "timeStamp": "5 days ago",
+          "productName": "Canon Mark III",
+          "productPrice": " $400",
+          "location": "Bangalore, 572140"
+        },
+        {
+          "userName": "Darrell Steward",
+          "timeStamp": "3 days ago",
+          "productName": "Apple Macbook 2",
+          "productPrice": "$800",
+          "location": "Bangalore, 572140"
+        },
+        {
+          "userName": "Marvin McKinney",
+          "timeStamp": "10 days ago",
+          "productName": "Levis Tshirt",
+          "productPrice": "$25.88",
+          "location": "Bangalore, 572140"
+        },
+        {
+          "userName": "Cody Fisher",
+          "timeStamp": "2 minutes ago",
+          "productName": "H&M Shirt Combo (3 Shirt)",
+          "productPrice": "$188",
+          "location": "Bangalore, 572140"
+        }
+      ]
+    },
+    "button":"View More",
+    "flowSection": {
+      "title": "Sell and buy every kinda thing on Equipnow",
+      "section": [
+        {
+          "heading": "Sell and declutter",
+          "subHeading": "Make money while saving the earth",
+          "image": "l1.json"
+        },
+        {
+          "heading": "It’s also a great deal for the environment",
+          "subHeading": "t’s also a great deal for the environment",
+          "image": "l2.json"
+        },
+        {
+          "heading": "Buy and sell simply by chatting",
+          "subHeading": "Buy and sell simply by chatting",
+          "image": "l3.json"
+        }
+      ]
+    },
+    "userTestimonials": {
+      "title": "Transact with a trusted local community",
+      "testimonials": [
+        {
+          "title": "Sell and declutter",
+          "comment": "Safe, reliable & easy to use user interface. Overall an awesome community to be in!",
+          "userName": "@md.helmi",
+          "ratings": 5
+        },
+        {
+          "title": "Decluttering and bargain finds",
+          "comment": "Love that we can make the most out of items. Helps me to clear my things without the guilt of throwing and purchase keeping the environment in mind.",
+          "userName": "@chrischross",
+          "ratings": 5
+
+        },
+        {
+          "title": "Great for the earth",
+          "comment": "Great way to save money and earth resources by buying secondhand; and giving new owners to things that are still working/ in great condition.",
+          "userName": "@mint_sg",
+          "ratings": 5
+
+        },
+        {
+          "title": "Easy to buy and sell",
+          "comment": "Easy and convenient platform. It’s convenient to buy and sell stuff. Get to chat directly with other Carousellers.",
+          "userName": "@joeboxer",
+          "ratings": 5
+
+        }
+      ]
+    },
+    "brandLogoSection":{
+      "title":"We have America’s Favorite Brands",
+      "description":"Shop one of the largest investory of new, used, and dealer certified Trucks",
+      "items":[
+        {"image":"https://leoffer-media.s3.ap-south-1.amazonaws.com/Dell_logo_b20395f0b1.webp"},
+        {"image":"https://leoffer-media.s3.ap-south-1.amazonaws.com/Vector_f1d13576ae.webp"},
+        {"image":"https://leoffer-media.s3.ap-south-1.amazonaws.com/samsung_logo_b78542d1e6.webp"},
+        {"image":"https://leoffer-media.s3.ap-south-1.amazonaws.com/Group_1171280652_8fe181636f.webp"},
+        {"image":"https://leoffer-media.s3.ap-south-1.amazonaws.com/Vector_2_84de06c3c9.webp"},
+        {"image":"https://leoffer-media.s3.ap-south-1.amazonaws.com/Layer_x0020_1_611c1fcf19.webp"},
+        {"image":"https://leoffer-media.s3.ap-south-1.amazonaws.com/Group_1_a9e8321777.webp"},
+        {"image":"https://leoffer-media.s3.ap-south-1.amazonaws.com/google_logo_4d73e821fa.webp"},
+        {"image":"https://leoffer-media.s3.ap-south-1.amazonaws.com/Vector_1_ec3b5f8816.webp"},
+        {"image":"https://leoffer-media.s3.ap-south-1.amazonaws.com/puma_logo_logo_42b0afe611.webp"},
+        {"image":"https://leoffer-media.s3.ap-south-1.amazonaws.com/xiaomi_3_logo_015aab7ad6.webp"},
+        {"image":"https://leoffer-media.s3.ap-south-1.amazonaws.com/Group_9d54b2ed76.webp"}
+      ]
+    },
+    "newAndUsedBannerSection":{
+      "title":"Explore New & Used Trucks for Sale",
+      "description":"Shop one of the largest investory of new, used, and dealer certified Trucks",
+      "items":[
+        {
+          "image":"https://leoffer-media.s3.ap-south-1.amazonaws.com/banner_1_ea467a41dd.webp",
+          "title":"New Truck For Sale",
+          "description":"Explore the largest selection of new boats for sale available now",
+          "btnText":"Shop New Trucks For Sale"
+        },
+        {
+          "image":"https://leoffer-media.s3.ap-south-1.amazonaws.com/banner_1_ea467a41dd.webp",
+          "title":"Used Truck For Sale",
+          "description":"Explore the largest selection of new boats for sale available now",
+          "btnText":"Shop Used Trucks For Sale"
+        }
+      ]
+    },
+    "sellAndBuySection":{
+      "title":"Sell and buy every kinda thing on Equipnow",
+      "items":[
+        {
+          "image":"https://leoffer-media.s3.ap-south-1.amazonaws.com/sellier_1_d0927a8911.webp",
+          "title":"Sell and declutter",
+          "description":"Make money while saving the earth"
+        },
+        {
+          "image":"https://leoffer-media.s3.ap-south-1.amazonaws.com/sellier_2_2a88af9a07.webp",
+          "title":"It's a great eco-friendly deal too.",
+          "description":"It’s also a great deal for the environment"
+        },
+        {
+          "image":"https://leoffer-media.s3.ap-south-1.amazonaws.com/sellier_3_f70c048eb3.webp",
+          "title":"Buy and sell simply by chatting",
+          "description":"Buy and sell simply by chatting"
+        }
+      ]
+    },
+    "guidesAndTipsSection":{
+      "title":"Equipnow Guides & Tips",
+      "description":"Gallery of the moment keys are handed over for your equipment. Use #PurchasedOnEquipnow for a chance to be featured in our happy equipment's gallery.",
+      "items":[
+        {
+          "image":"https://leoffer-media.s3.ap-south-1.amazonaws.com/guides_and_tipes_1_5bf678cdf6.webp",
+          "title":"Top 10 Center Console Agricultural Equipment Manufactures In 2023",
+          "description":"An expert review of the top centre console manufactures. Learn which centre consoles meet the needs for scalable agriculture."
+        },
+        {
+          "image":"https://leoffer-media.s3.ap-south-1.amazonaws.com/guides_and_tipes_3_9e53904345.webp",
+          "title":"What kind of equipments are sold by Equipnow ?",
+          "description":"Learn More"
+        },
+        {
+          "image":"https://leoffer-media.s3.ap-south-1.amazonaws.com/guides_and_tipes_2_730bec9053.webp",
+          "title":"Buying An Equipment On Equipnow Tutorial",
+          "description":"Learn More"
+        }
+      ]
+    },
+    "dealersSection":{
+      "title":"For Dealers & Virtual Retailing",
+      "description":"Ride the new wave of techonology and virtual retailing for equipment dealers and professionals",
+      "items":[
+        {
+          "image":"https://leoffer-media.s3.ap-south-1.amazonaws.com/Frame_1171282174_9e1a047177.png",
+          "description":"Learn how to transform your dealership and website into a virtual retailing experience and add new revenue streams",
+          "btnText":"Learn More"
+        },
+        {
+          "image":"https://leoffer-media.s3.ap-south-1.amazonaws.com/Frame_1171282175_be1cc79204.png",
+          "description":"Need a demo? Let's schedule a demo today and discuss which Equipnow Professional plan is best for your business",
+          "btnText":"Learn More"
+        },
+        {
+          "image":"https://leoffer-media.s3.ap-south-1.amazonaws.com/Frame_1171282176_7f074e5579.png",
+          "description":"Meet Equipnow Live...your virtual showroom and live video boat tour application. Conduct live boat tours, even pre-qualify a customer during a live video",
+          "btnText":"Learn More"
+        }
+      ]
+    },
+    "faqSection":{
+      "title":"FAQ’s",
+      "questions":[
+        {
+          "question":"Why is my account banned/suspended?",
+          "answer":"If you find that you are receiving a notification that your account is banned/suspended, this means that you've either breached one of our Posting rules or there is a non-compliant activity as per our Trust and Safety rules relating to your account. Business Users in case of Account banned/suspended are requested to contact the administrator For any support feel free to Le-Offer Customer Services Team"
+        },
+        {
+          "question":"How to edit/delete an ad?",
+          "answer":"If you wish to modify or delete an existing Ad, you can do so by following the below steps: - 1. After you have logged in to Le-Offer account, Go to Profile - My Ads 2 Click on the Ad, you will find Edit and Delete buttons on the Ad update screen 3. Click on edit to edit the Ad and click on Delete button to remove your ad"
+        },
+        {
+          "question":"How do I delete my account?",
+          "answer":"1. Tap on “Profile” and select “Settings” 2. Under setting you will find an option called \"Deactivate account\", tap on Deactivate and a final confirmation popup will appear 3. Once you confirm, you will get an Email notification for verification of the deactivation, once you confirm on the email your account will be deactivated"
+        },
+        {
+          "question":"How do I logout from my account?",
+          "answer":"1. Tap on “Profile” and select “Settings” 2. Under setting you will find an option called \"Sign out\", tap on sign out and a final confirmation popup will appear 3. Confirm on the popup and you will be logged out from the app Can I share my ad with my friends?"
+        },
+        {
+          "question":"How do I get maximum replies?",
+          "answer":"To get good responses for your Ad, please ensure the below: - A comprehensive description: Mention the relevant Ad details such as title/description and ensure to provide complete information such as item specification, size, shape, colour, design, etc. Clear resolution photograph(s): Always upload a clear image showing the item properly. Please ensure that the image is original and reflects the item as described. Do not include any stock or human image. Competitive pricing: Please ensure to keep realistic pricing for your Ad. It should reflect the market value of the item and correspond to actual item condition. Appropriate category: Ensure to post the Ad in relevant category. E.g. post mobile phone in mobiles and not electronics. Premium Services: You have the option to opt for paid services such as featured Ad or highlighting the ads. They give more visibility to your Ad & help receive much more responses. To know more, click here."
+        }
+      ]
+    },
+    "appDownloadSection": {
+      "heading": "Everyone Wins on Le.Offer",
+      "subHeading": "Unlock exclusive features when you download theEquipnow app today!",
+      "newsLetterTitle":"Subscribe To our Newsletter",
+      "qrText": "Scan here"
+    },
+    "infoSection":[
+      {
+        "title":"Cities",
+        "items":["Fairfield","Austin","Pembroke Pines","Orange","Pembroke Pines","Naperville","Orange","Pembroke Pines","Pembroke Pines","Austin","Naperville","Pembroke Pines","Pembroke Pines","Naperville","Pembroke Pines","Austin Fairfield","Fairfield","Orange","Austin","Toledo","Naperville","Toledo","Austin","Orange","Naperville","Toledo","Orange","Austin","Toledo","Orange","Naperville","Pembroke Pines","Orange","Pembroke Pines","Austin","Austin"]
+      },
+      {
+        "title":"Popular items in Equipment",
+        "items":[
+          "BMW Used Cars for Sale",
+          "Volkswagen Used Cars for Sale",
+          "Volkswagen Used Cars for Sale",
+          "Honda Used Cars for Sale",
+          "Mercedes Benz Used Cars for Sale",
+          "Audi Used Cars for Sale",
+          "Nissan Used Cars for Sale",
+          "Suzuki Used Cars for Sale",
+          "Mitsubishi Used Cars for Sale",
+          "Lexus Used Cars for Sale",
+          "Kia Used Cars for Sale",
+          "Mazda Used Cars for Sale",
+          "Hyundai Used Cars for Sale",
+          "Skoda Used Cars for Sale"
+        ]
+      },
+      {
+        "title":"Popular items in Attachments",
+        "items":[
+          "Honda Civic Used Cars for Sale",
+          "Honda Fit Used Cars for Sale",
+          "Nissan X Trail Used Cars for Sale",
+          "Toyota Wish Used Cars for Sale",
+          "Mazda 3 Used Cars for Sale",
+          "Mazda 6 Used Cars for Sale",
+          "Kia Cerato Used Cars for Sale",
+          "Honda Vezel Used Cars for Sale",
+          "Toyota Corolla Altis Used Cars for Sale",
+          "Toyota Harrier Used Cars for Sale",
+          "BMW M3 Used Cars for Sale",
+          "Mercedes Benz CLA Used Cars for Sale",
+          "Mercedes Benz A Class Used Cars for Sale"
+        ]
+      },
+      {
+        "title":"Popular items in Vehicles",
+        "items":[
+          "DB Renovation Service",
+          "BTO Renovation Service",
+          "Condo Renovation Service",
+          "Toilet Renovation Service",
+          "Carpentry Services",
+          "Painting Services",
+          "Wallpaper Installer",
+          "Interior Design Services",
+          "Aluminium Window & Grill",
+          "False Ceiling Partition",
+          "Waterproofing Services",
+          "Lighting & Electrical Services",
+          "Floor Renovation Service",
+          "Vinyl Flooring Services"
+        ]
+      },
+      {
+        "title":"Popular items in Trailers",
+        "items":[
+          "HDB Renovation Service",
+          "BTO Renovation Service",
+          "Condo Renovation Service",
+          "Toilet Renovation Service",
+          "Carpentry Services",
+          "Painting Services",
+          "Wallpaper Installer",
+          "Interior Design Services",
+          "Aluminium Window & Grill",
+          "False Ceiling Partition",
+          "Waterproofing Services",
+          "Lighting & Electrical Services",
+          "Floor Renovation Service",
+          "Vinyl Flooring Services"
+        ]
+      },
+      {
+        "title":"Popular items in Bikes",
+        "items":[
+          "HDB Renovation Service",
+          "BTO Renovation Service",
+          "Condo Renovation Service",
+          "Toilet Renovation Service",
+          "Carpentry Services",
+          "Painting Services",
+          "Wallpaper Installer",
+          "Interior Design Services",
+          "Aluminium Window & Grill",
+          "False Ceiling Partition",
+          "Waterproofing Services",
+          "Lighting & Electrical Services",
+          "Floor Renovation Service",
+          "Vinyl Flooring Services"
+        ]
+      },
+      {
+        "title":"Popular items in Cars",
+        "items":[
+          "HDB Renovation Service",
+          "BTO Renovation Service",
+          "Condo Renovation Service",
+          "Toilet Renovation Service",
+          "Carpentry Services",
+          "Painting Services",
+          "Wallpaper Installer",
+          "Interior Design Services",
+          "Aluminium Window & Grill",
+          "False Ceiling Partition",
+          "Waterproofing Services",
+          "Lighting & Electrical Services",
+          "Floor Renovation Service",
+          "Vinyl Flooring Services"
+        ]
+      },
+      {
+        "title":"Popular items in Home electronics",
+        "items":[
+          "HDB Renovation Service",
+          "BTO Renovation Service",
+          "Condo Renovation Service",
+          "Toilet Renovation Service",
+          "Carpentry Services",
+          "Painting Services",
+          "Wallpaper Installer",
+          "Interior Design Services",
+          "Aluminium Window & Grill",
+          "False Ceiling Partition",
+          "Waterproofing Services",
+          "Lighting & Electrical Services",
+          "Floor Renovation Service",
+          "Vinyl Flooring Services"
+        ]
+      },
+      {
+        "title":"Popular items in Mobile & Gadgets",
+        "items":[
+          "HDB Renovation Service",
+          "BTO Renovation Service",
+          "Condo Renovation Service",
+          "Toilet Renovation Service",
+          "Carpentry Services",
+          "Painting Services",
+          "Wallpaper Installer",
+          "Interior Design Services",
+          "Aluminium Window & Grill",
+          "False Ceiling Partition",
+          "Waterproofing Services",
+          "Lighting & Electrical Services",
+          "Floor Renovation Service",
+          "Vinyl Flooring Services"
+        ]
+      }
+     
+    ],
+    "footerSectionText":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ",
+    "footerSection":{
+        "itemName": "About",
+        "categories": [
+          "What is EquipNow?",
+          "FAQ",
+          "Our Team",
+          "Terms of Service",
+          "Blog",
+          "Privacy Policy"
+        ]
+    },
+    "connectSection": {
+      "title": "Connect With Us",
+      "tollFree": "Toll-free",
+      "newsLetterTitle": "Subscribe To our Newsletter",
+      "newsLetterInputPlaceholder": "hi@enquipnow.cow",
+      "newsLetterSubmitBtnText": "Submit"
+    },
+    "menuOptions":[
+      {"item": "Profile"},
+      {"item": "Manage listings"},
+      {"item": "Settings"},
+      {"item": "My purchases"},
+      {"item": "My sales"},
+      {"item": "Likes"},
+      {"item": "Cart"},
+      {"item": "Selling preferences"},
+      {"item": "Delivery promo"},
+      {"item": "Logout"}
+    ]
+  }
+}

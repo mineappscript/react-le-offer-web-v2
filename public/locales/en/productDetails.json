@@ -1,0 +1,82 @@
+{
+    "page":{
+        "soldBy":"Sold by",
+        "seller": "Isabelle",
+        "rating": 2.0,
+        "followBtn":"Follow",
+        "newBtn":"new",
+        "categoryTitle":"Living Room Furniture",
+        "category": "Furniture & home Living",
+        "price": "USD $245.00",
+        "posted": "20 days ago",
+        "desc":"Description",
+        "description": "Get 3 years of maintenance services post brand warranty covering inspection, cleaning, polishing touchups, accessory replacement services, stain prevention treatment, and termite treatment cleaning, polish...Read more",
+        "productAttributes": [
+            {
+                "title":"Furniture",
+                "attribute":[
+                    {
+                        "name": "Mattress",
+                        "value": "No"
+                    },
+                    {
+                        "name": "Storage Included",
+                        "value": "Resin Bed"
+                    },
+                    {
+                        "name": "Bed Size",
+                        "value": "Single"
+                    }
+                ]
+            },
+            {
+                "title":"Furniture",
+                "attribute":[
+                    {
+                        "name": "Bed Material",
+                        "value": "Resin Bed"
+                    },
+                    {
+                        "name": "Storage Included",
+                        "value": "No"
+                    }
+                ]
+            }
+        ],
+        "locationTitle": "Location",
+        "location": "Urdigere, 572140",
+        "btnBuyDirect": "Buy Direct",
+        "comments":{
+            "CommentsTitle":"Comments",
+            "allComments":[
+                {
+                    "name":"@meow____",
+                    "DateAndTime":"08 January, 2024 12:51 PM",
+                    "text":"Good seller good product ! Thank you"
+                },
+                {
+                    "name":"@meow____",
+                    "DateAndTime":"08 January, 2024 12:51 PM",
+                    "text":"Good seller good product ! Thank you"
+                }
+            ],
+            "commentBtn":"Add Comments"
+        },
+        "webSection":{
+            "sectionTitle": "Other Products by the seller",
+            "actionText": "See all"
+        },
+        "mobileSection":[
+            {
+                "sectionTitle": "Similar Products",
+                "actionText": "See all"
+            },
+            {
+                "sectionTitle": "Recently Viewed",
+                "actionText": "See all"
+            }
+        ],
+        "likeBtn":"Like",
+        "shareBtn":"Share"
+    }
+}
