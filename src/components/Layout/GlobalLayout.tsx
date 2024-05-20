@@ -100,14 +100,12 @@ const GlobalLayout: FC<Props> = ({ children, categoriesWithChildCategories }) =>
           categoriesWithChildCategories={categoriesWithChildCategories}
           categories={headerCategories}
           stickyHeaderWithSearchBox={stickyHeaderWithSearchBox}
-          mobileHeaderForPdp={mobileHeaderForPdp}
         />
       )}
       {!excludeDefaultPageHeader.some((substring) => router.pathname.includes(substring)) && (
         <PageHeader
           // content={content}
           stickyHeaderWithSearchBox={stickyHeaderWithSearchBox}
-          mobileHeaderForPdp={mobileHeaderForPdp}
           handleGetLocationHelper={() => { }}
           handleRemoveLocationHelper={() => { }}
         />
