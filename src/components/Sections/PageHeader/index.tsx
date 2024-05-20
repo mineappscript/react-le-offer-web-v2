@@ -36,6 +36,9 @@ const PageHeader: FC<Props> = ({
       }`,className)}
       style={{ backgroundPosition: '50% 20%' }}
     >
+    <picture>
+      <source media="(max-width:699px)" srcSet={IMAGES.PRIMARY_BANNER} type="image/webp" />
+      <source media="(max-width:640px)" srcSet={IMAGES.PRIMARY_BANNER} type="image/webp" />
       <Image
         className={appClsx(`relative ${
           windowScroll > 400 ? '!static top-[69px]' : ''
@@ -50,7 +53,7 @@ const PageHeader: FC<Props> = ({
         loader={gumletLoader}
         priority
       />
-      {/* image shadow or overlay */}
+    </picture>
       <div
         className={appClsx(`${windowScroll > 400 ? 'hidden' : ''} ${stickyHeaderWithSearchBox && 'hidden'}`,imageClassName)}
         style={{
